@@ -5,10 +5,10 @@ The school board notified my supervisors that there was evidence of acedemic dis
 
 ### Results
 These were the reults of Thomas High School before removing the 9th graders overall grades (in order of math, reading, and last Overall)
-> Thomas High School	Charter 	66.911315	  69.663609	  65.076453
+> Thomas High School	Charter 	Math - 66.911315	 Reading - 69.663609	  Overall Combined - 65.076453
 
 And this is after removing the 9th graders:
-> Thomas High School   90.630324   97.018739   90.630324
+> Thomas High School   Math - 90.630324   Reading - 97.018739   Overall Combined - 90.630324
 
 As you can see, removing the 9th graders made the overall averages of math, reading, and Overall go up to the 90% range. It also shows that Thomas High School has better averages then other schools with no 9th graders.
 
